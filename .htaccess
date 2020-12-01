@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /customers/6/f/b/kolonialwarenmuseum.de/httpd.www/.htpasswd
+Require valid-user
